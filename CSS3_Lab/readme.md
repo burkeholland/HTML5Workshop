@@ -25,9 +25,7 @@
 
 1. Open the page with Internet Explorer 9 (if you haven't already), and hit the F12 key (or use the menu) to open the developer tools.
 
-2. Click on the "Browser Mode" menu item to the right of the menu bar. You should see options similar to the image below. Select "Internet Explorer 8," or "Internet Explorer 7" and watch how your beautiful rounded corners disappear.
-
-	![Changing the Browser Mode in IE9's F12 Developer Tools](https://github.com/csell5/HTML5-Compiler/raw/master/2-%20HTML5%20Core/labs/assets/ie9BrowserMode.png "IE9 Browser Tools")
+2. Click on the "Browser Mode" menu item to the right of the menu bar. Select "Internet Explorer 8," or "Internet Explorer 7" and watch how your beautiful rounded corners disappear.
 
 3. To get those rounded corners back, we can use Modernizr and a Polyfilling library called [PIE.js](http://css3pie.com/). Start by adding the following to the `<script>` block at the bottom of photos.html:
 
