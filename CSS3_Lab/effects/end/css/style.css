@@ -21,7 +21,7 @@ a:hover {
 h1 {
 	/* Single Shadow */
 	text-shadow: 5px 5px 5px #bbb;
-	
+
 	/* Multi-shadow */
 	/*text-shadow: 0 -2px 3px #fff, 0 -4px 3px #aaa, 0 -6px 6px #666, 0 -8px 9px #000;*/
 }
